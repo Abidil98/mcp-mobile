@@ -1,0 +1,10 @@
+# App Package Names for Mobile MCP
+
+## Target Apps
+- Shopmium: com.shopmium
+- Quoty: fr.laposte.quoty
+
+## Other Useful Apps
+- Settings: com.android.settings
+- Chrome: com.android.chrome
+- Camera: com.android.camera2
